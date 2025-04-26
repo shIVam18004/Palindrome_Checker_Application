@@ -5,7 +5,7 @@ This application allows users to check if a word or phrase is a palindrome, igno
 
 ## 🚀 Live Demo
 
-[Explore the Palindrome Checker] (https://shivam18004.github.io/Palindrome_Checker_Application/)
+[Explore the Palindrome Checker](https://shivam18004.github.io/Palindrome_Checker_Application/)
 
 ---
 
