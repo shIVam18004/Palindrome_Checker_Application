@@ -5,13 +5,13 @@ This application allows users to check if a word or phrase is a palindrome, igno
 
 ## 🚀 Live Demo
 
-[Explore the Palindrome Checker](https://shivam18004.github.io/Palindrome_Checker/)
+[Explore the Palindrome Checker] (https://shivam18004.github.io/Palindrome_Checker/](https://shivam18004.github.io/Palindrome_Checker_Application/)
 
 ---
 
 ## 📸 Screenshot
 
-![Palindrome Checker Screenshot](https://github.com/shIVam18004/Palindrome_Checker/blob/main/palindrome_checker.png)
+![Palindrome Checker Screenshot](https://github.com/shIVam18004/Palindrome_Checker_Application/blob/main/palindrome.png)
 
 ---
 
@@ -67,14 +67,4 @@ Thanks to the web development community for constant inspiration!
 
 ---
 
-## 📬 Connect with Me
-
-[GitHub Profile](https://github.com/shIVam18004)  
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile) <!-- Replace 'yourprofile' with your actual LinkedIn username -->
-
----
-
-## 📋 Short Repository Description
-
-> "A simple and efficient Palindrome Checker web application developed using HTML, CSS, and JavaScript, focusing on string manipulation, regular expressions, and dynamic DOM updates."
 
