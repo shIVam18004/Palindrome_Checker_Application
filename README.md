@@ -5,7 +5,7 @@ This application allows users to check if a word or phrase is a palindrome, igno
 
 ## 🚀 Live Demo
 
-[Explore the Palindrome Checker] (https://shivam18004.github.io/Palindrome_Checker/](https://shivam18004.github.io/Palindrome_Checker_Application/)
+[Explore the Palindrome Checker] (https://shivam18004.github.io/Palindrome_Checker_Application/)
 
 ---
 
@@ -50,11 +50,11 @@ Through this project, I practiced and improved:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shIVam18004/Palindrome_Checker.git
+   https://github.com/shIVam18004/Palindrome_Checker_Application.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Palindrome_Checker
+   cd Palindrome_Checker_Application
    ```
 3. Open the `index.html` file in your web browser.
 
